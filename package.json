@@ -1,0 +1,30 @@
+{
+  "name": "sample-blog",
+  "version": "1.0.0",
+  "description": "Just a simple blog using metalsmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v16s/sample-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v16s/sample-blog/issues"
+  },
+  "homepage": "https://github.com/v16s/sample-blog#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.16.2",
+    "handlebars": "^4.0.11",
+    "http": "0.0.0",
+    "metalsmith": "^2.3.0",
+    "metalsmith-collections": "^0.9.0",
+    "metalsmith-layouts": "^1.8.1",
+    "metalsmith-markdown": "^0.2.1",
+    "path": "^0.12.7"
+  }
+}
